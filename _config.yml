@@ -17,7 +17,7 @@ title: Menooker
 email: menooker@live.cn
 description: > # this means to ignore newlines until "baseurl:"
   This is the peronal web site of Menooker (Yijie Mei).
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Menooker" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
